@@ -1,0 +1,22 @@
+
+
+.buzz {
+    background-color: #189ca4;
+    color: #edf4f0 !important;
+  }
+
+.bannerImage {
+  max-width: 100%;
+  z-index: -10 !important;
+  position: relative;
+}
+
+.overlayImage{
+  position: absolute;
+}
+
+.navBarItem {
+  margin-left: 2.5rem !important;
+  margin-right: 2.5rem !important;
+  font-weight: bold;
+}
